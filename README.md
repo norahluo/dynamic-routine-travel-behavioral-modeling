@@ -10,7 +10,7 @@ The paper is submitted to [Transportation Research Part B: Methodological](https
 
 
 ### Data
-- The data used in this work is from GPS data collected by Embee Mobile. The dataset we provide (``) is the post-processed data sufficient to replicate the estimation results in the paper.
+- The data used in this work is from GPS data collected by Embee Mobile. The dataset we provide (`demo.csv`) is the post-processed data sufficient to replicate the estimation results in the paper.
 
 - Commute choice trajectories for 573 full-time workers are included:
 
