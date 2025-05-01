@@ -1,0 +1,574 @@
+,panelist_id,home_state,home_state_county,city_name,postal_code,dfrw_cap_mean,gender,age,edu_level,ethnicity,is_hispanic,occupational_status,hh_income,hh_income_mid,hh_size
+0,EMBUSA-1033561,KS,"('KS', 'Wyandotte')",Kansas City,66109,7791.049221463705,MALE,51.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+1,EMBUSA-1175033,NV,"('NV', 'Clark')",Las Vegas,89149,26299.639134900986,MALE,23.0,High School,White,Decline to answer,Full-time work,"$50,000 - $79,999 USD",65000,2
+2,EMBUSA-1182541,IL,"('IL', 'Cook')",Bedford Park,,4242.612143885972,MALE,40.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+3,EMBUSA-1222267,AZ,"('AZ', 'Pinal')",Marana,85658,26768.093003529415,FEMALE,38.0,High School,White,Decline to answer,Full-time work,"$0 - $14,999 USD",7500,5
+4,EMBUSA-1277336,OH,"('OH', 'Cuyahoga')",Cleveland,44111,12373.044794483565,MALE,37.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,10+
+5,EMBUSA-1319411,OH,"('OH', 'Summit')",East Canton,44730,68540.72094466403,FEMALE,36.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+6,EMBUSA-1417279,OH,"('OH', 'Hamilton')",Wilder,41071,9728.656134038196,MALE,30.0,University/College,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+7,EMBUSA-1446609,NC,"('NC', 'Guilford')",Vero Beach,32962,4628.3076,MALE,34.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+8,EMBUSA-1459356,AZ,"('AZ', 'Maricopa')",Glendale,85302,16122.555760330579,FEMALE,46.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+9,EMBUSA-1461520,OR,"('OR', 'Multnomah')",Portland,97236,5076.751040285716,FEMALE,50.0,High School,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+10,EMBUSA-1463888,MO,"('MO', 'St. Charles')",O\\\'Fallon,63366,86149.84185711914,MALE,48.0,High School,White,"No, not of Hispanic origin",Full-time work,"$150,000 - $199,999 USD",175000,4
+11,EMBUSA-1468019,OH,"('OH', 'Medina')",Brunswick,44212,7413.232603022088,FEMALE,51.0,High School,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+12,EMBUSA-1469981,CA,"('CA', 'San Francisco')",San Francisco,94132,24882.379000000004,MALE,36.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$150,000 - $199,999 USD",175000,4
+13,EMBUSA-1472964,KY,"('KY', 'Jefferson')",Austin,47102,20040.917877135882,MALE,23.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+14,EMBUSA-1473422,OH,"('OH', 'Lucas')",Martinsburg,16662,81605.98191045682,MALE,47.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+15,EMBUSA-1478823,MI,"('MI', 'Wayne')",Columbus,43228,25168.280999999995,FEMALE,55.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+16,EMBUSA-1482088,AR,"('AR', 'Washington')",,,8056.914473793289,FEMALE,27.0,High School,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,3
+17,EMBUSA-1493736,OH,"('OH', 'Cuyahoga')",Newburgh Heights,44105,17411.587999999996,FEMALE,26.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+18,EMBUSA-1502604,AZ,"('AZ', 'Maricopa')",Litchfield Park,85340,5627.984623922269,FEMALE,41.0,Postgraduate Education,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+19,EMBUSA-1503114,HI,"('HI', 'Honolulu')",Honolulu,96819,7132.789600000002,MALE,53.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+20,EMBUSA-1515404,UT,"('UT', 'Utah')",Orem,84097,3445.9230000000002,MALE,35.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+21,EMBUSA-1516795,GA,"('GA', 'DeKalb')",Atlanta,30303,5631.900165615763,FEMALE,53.0,University/College,Decline to answer,Decline to answer,Full-time work,"$0 - $14,999 USD",7500,2
+22,EMBUSA-1536863,MO,"('MO', 'Crawford')",Sullivan,63080,44423.71904661018,FEMALE,41.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+23,EMBUSA-1540424,TX,"('TX', 'Dallas')",Sachse,75048,24500.631672376116,FEMALE,28.0,Postgraduate Education,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+24,EMBUSA-1541366,PA,"('PA', 'Montgomery')",Philadelphia,19136,9805.073999999997,FEMALE,28.0,University/College,Other race,Decline to answer,Full-time work,"$100,000 - $149,999 USD",125000,5
+25,EMBUSA-1541665,MI,"('MI', 'Macomb')",Warren,48092,20993.72036783286,FEMALE,35.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+26,EMBUSA-1547190,NE,"('NE', 'Lancaster')",Lincoln,68510,6693.808477877811,FEMALE,57.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+27,EMBUSA-1552716,NC,"('NC', 'Wayne')",Goldsboro,27534,26352.061999999998,FEMALE,50.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,5
+28,EMBUSA-1552943,NE,"('NE', 'Sarpy')",Bellevue,68123,12847.14897299694,FEMALE,38.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+29,EMBUSA-1554010,OR,"('OR', 'Washington')",Beaverton,97007,26976.51866311746,MALE,52.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+30,EMBUSA-1554112,TN,"('TN', 'Sevier')",Sevierville,37876,23731.135000000006,MALE,33.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,8
+31,EMBUSA-1557881,GA,"('GA', 'Lee')",Leesburg,31763,16043.182000000004,MALE,38.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+32,EMBUSA-1560125,TX,"('TX', 'Bell')",Killeen,76549,3301.5561975694445,MALE,40.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+33,EMBUSA-1560328,IA,"('IA', 'Clarke')",Osceola,50213,30605.929890061132,FEMALE,35.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+34,EMBUSA-1562085,WI,"('WI', 'Milwaukee')",Franklin,53132,6457.011112988423,MALE,39.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+35,EMBUSA-1565243,UT,"('UT', 'Utah')",Orem,84097,1576.2066999999997,FEMALE,30.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+36,EMBUSA-1565374,TX,"('TX', 'Gonzales')",Friendswood,77546,134074.65703203419,MALE,54.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+37,EMBUSA-1566423,MS,"('MS', 'Hancock')",Bay Saint Louis,39520,20578.84923470243,FEMALE,32.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+38,EMBUSA-1566514,OK,"('OK', 'Cleveland')",Moore,73160,85172.18572355573,MALE,33.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+39,EMBUSA-1570516,TX,"('TX', 'Fort Bend')",Sugar Land,77498,21631.04694777397,MALE,34.0,Postgraduate Education,Decline to answer,Decline to answer,Full-time work,"$0 - $14,999 USD",7500,4
+40,EMBUSA-1571697,UT,"('UT', 'Salt Lake')",Kearns,84118,10989.097848205129,FEMALE,43.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+41,EMBUSA-1573317,TX,"('TX', 'Travis')",Austin,78728,3988.0569634692556,FEMALE,21.0,High School,Native American or Alaskan native,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+42,EMBUSA-1574740,AZ,"('AZ', 'Maricopa')",Phoenix,85041,10275.27510789986,FEMALE,31.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+43,EMBUSA-1577593,WA,"('WA', 'Snohomish')",Everett,98208,3772.3145380078645,MALE,50.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+44,EMBUSA-1578697,CA,"('CA', 'San Diego')",Chula Vista,91911,13595.966774117958,MALE,39.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+45,EMBUSA-1589301,UT,"('UT', 'Utah')",Saratoga Springs,84045,553.2414705589226,MALE,37.0,High School,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,6
+46,EMBUSA-1589320,AZ,"('AZ', 'Maricopa')",Glendale,85308,55912.23198846809,MALE,32.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$150,000 - $199,999 USD",175000,3
+47,EMBUSA-1596269,TX,"('TX', 'Callahan')",Clyde,79510,21829.02428563596,MALE,40.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,10+
+48,EMBUSA-1601535,MO,"('MO', 'Jackson')",Kansas City,64108,1314.7134569642105,FEMALE,43.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+49,EMBUSA-1602052,OK,"('OK', 'Payne')",Stillwater,74074,19171.605000000003,FEMALE,54.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,3
+50,EMBUSA-1604054,VA,"('VA', 'Fauquier')",Manassas,20110,42240.40548411682,MALE,55.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$150,000 - $199,999 USD",175000,3
+51,EMBUSA-1606422,NJ,"('NJ', 'Camden')",Sicklerville,08081,15460.105999999998,FEMALE,40.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+52,EMBUSA-1608558,GA,"('GA', 'Cobb')",Marietta,30062,5965.975414978769,MALE,41.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+53,EMBUSA-1612812,OK,"('OK', 'Le Flore')",Pocola,74902,552.9111000000001,FEMALE,46.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,6
+54,EMBUSA-1613585,NC,"('NC', 'Union')",Indian Trail,28079,10798.645120354611,MALE,41.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+55,EMBUSA-1613675,IL,"('IL', 'DuPage')",Naperville,60565,5100.467300000001,FEMALE,38.0,University/College,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+56,EMBUSA-1616092,KS,"('KS', 'Wyandotte')",Kansas City,66103,5429.748195807259,FEMALE,51.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+57,EMBUSA-1618250,VA,"('VA', 'Campbell')",Evington,24550,12294.59987543737,FEMALE,39.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+58,EMBUSA-1620526,MI,"('MI', 'Macomb')",Sterling Heights,48310,8571.891549169182,MALE,45.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+59,EMBUSA-1623669,VA,"('VA', 'Petersburg city')",Petersburg,23803,20592.648366133286,MALE,44.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+60,EMBUSA-1624111,CT,"('CT', 'Fairfield')",Fairfield,06890,20669.689880656846,MALE,64.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+61,EMBUSA-1628090,TX,"('TX', 'Harris')",League City,77573,18294.957302624112,FEMALE,37.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+62,EMBUSA-1631506,MD,"('MD', ""Prince George's"")",Beltsville,20705,10483.214970294906,FEMALE,50.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+63,EMBUSA-1632980,UT,"('UT', 'Washington')",Hurricane,84737,28359.501615358884,MALE,25.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+64,EMBUSA-1635544,OK,"('OK', 'Oklahoma')",Oklahoma City,73142,15818.423560802468,MALE,53.0,Postgraduate Education,Black or African American,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+65,EMBUSA-1636155,MA,"('MA', 'Bristol')",Berkley,02779,3067.7107000000005,MALE,31.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+66,EMBUSA-1637731,IL,"('IL', 'Lake')",Ingleside,60041,3037.7798072961377,FEMALE,33.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+67,EMBUSA-1642800,CT,"('CT', 'Windham')",Windham,06266,27885.674166666668,MALE,56.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+68,EMBUSA-1647345,CT,"('CT', 'Hartford')",Bristol,06010,13561.919180299885,MALE,23.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+69,EMBUSA-1648488,TX,"('TX', 'Harris')",Houston,77095,7400.386548815566,FEMALE,36.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+70,EMBUSA-1648609,IL,"('IL', 'DuPage')",Homer Glen,60491,27866.681999999997,MALE,36.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+71,EMBUSA-1651154,VA,"('VA', 'Suffolk city')",Chesapeake,23320,2381.7285245901644,FEMALE,53.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,5
+72,EMBUSA-1652735,FL,"('FL', 'Manatee')",Pace,32571,4614.310687358489,FEMALE,37.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+73,EMBUSA-1655695,OR,"('OR', 'Washington')",Hillsboro,97006,26075.93568236646,MALE,35.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+74,EMBUSA-1655973,PA,"('PA', 'Philadelphia')",Philadelphia,19140,6382.935722488038,MALE,32.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+75,EMBUSA-1658168,CA,"('CA', 'Alameda')",Fremont,94536,20618.144028753995,FEMALE,57.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+76,EMBUSA-1661308,MD,"('MD', 'Baltimore')",Middle River,21220,22815.197889504376,FEMALE,34.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+77,EMBUSA-1661341,FL,"('FL', 'Hillsborough')",Opa-locka,33054,8664.935371106116,FEMALE,40.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,7
+78,EMBUSA-1661442,PA,"('PA', 'Chester')",Honey Brook,19344,9507.57713225992,FEMALE,45.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+79,EMBUSA-1661528,CA,"('CA', 'Riverside')",Wildomar,92595,15073.16421029746,MALE,49.0,Compulsory school,Decline to answer,Decline to answer,Full-time work,"$50,000 - $79,999 USD",65000,4
+80,EMBUSA-1663136,WI,"('WI', 'Waukesha')",New Lenox,60451,64005.161671702524,MALE,28.0,High School,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+81,EMBUSA-1663295,OK,"('OK', 'Pontotoc')",Ada,74820,1689.1474999999994,FEMALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+82,EMBUSA-1663663,MO,"('MO', 'Jackson')",Overland Park,66210,35839.75679095477,FEMALE,41.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+83,EMBUSA-1666392,NY,"('NY', 'Livingston')",Victor,14564,12322.459479293711,FEMALE,34.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+84,EMBUSA-1667004,NV,"('NV', 'Clark')",Las Vegas,89108,15889.693336999148,FEMALE,34.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+85,EMBUSA-1673996,OH,"('OH', 'Trumbull')",Warren,44483,17070.258668324743,MALE,29.0,High School,Decline to answer,Decline to answer,Full-time work,"$0 - $14,999 USD",7500,3
+86,EMBUSA-1675808,WA,"('WA', 'Clark')",Vancouver,98662,17714.583612748884,FEMALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,9
+87,EMBUSA-1677612,MO,"('MO', 'Clay')",Kansas City,64155,30475.096000000005,FEMALE,32.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,5
+88,EMBUSA-1677893,AZ,"('AZ', 'Pima')",Wagoner,74467,12513.101155721222,FEMALE,58.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+89,EMBUSA-1678412,NV,"('NV', 'Clark')",Glendale,91203,16647.282054632564,FEMALE,51.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+90,EMBUSA-1680006,PA,"('PA', 'Philadelphia')",Philadelphia,19150,11367.748893155152,FEMALE,48.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+91,EMBUSA-1681121,PA,"('PA', 'Westmoreland')",Cheswick,15024,27484.46933806581,MALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+92,EMBUSA-1685212,MA,"('MA', 'Plymouth')",Brockton,02302,51345.08,MALE,50.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+93,EMBUSA-1686958,TX,"('TX', 'Harris')",Houston,77077,11392.296000000002,MALE,38.0,Postgraduate Education,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,1
+94,EMBUSA-1687839,VA,"('VA', 'Fairfax')",Burke,22015,28663.424666666666,FEMALE,34.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+95,EMBUSA-1697278,FL,"('FL', 'Broward')",Pembroke Pines,33029,10558.615000000002,FEMALE,55.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+96,EMBUSA-1697797,WI,"('WI', 'Rock')",Beloit,53511,657.8912825045704,FEMALE,65.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+97,EMBUSA-1698031,NC,"('NC', 'Wayne')",,,22614.483835249997,FEMALE,34.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+98,EMBUSA-1699452,VA,"('VA', 'Stafford')",Falls Church,22042,31447.730330145554,MALE,25.0,University/College,Native American or Alaskan native,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,7
+99,EMBUSA-1701183,GA,"('GA', 'Cherokee')",Kennesaw,30144,6994.205560195866,MALE,36.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+100,EMBUSA-1707147,IN,"('IN', 'Ripley')",Milan,47031,60731.137,FEMALE,29.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,5
+101,EMBUSA-1709100,MD,"('MD', 'Baltimore')",Baltimore,21209,9214.571217557253,MALE,21.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+102,EMBUSA-1710210,CA,"('CA', 'Sacramento')",Clyde,79510,1940.053504988628,FEMALE,58.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,7
+103,EMBUSA-1710590,TX,"('TX', 'Harris')",Jasper,75951,36821.66480749574,MALE,38.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+104,EMBUSA-1711607,FL,"('FL', 'Broward')",Margate,33063,7170.835399999998,FEMALE,50.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+105,EMBUSA-1713480,SC,"('SC', 'Dillon')",Township of Taylorsville,28681,21286.282266868842,MALE,49.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+106,EMBUSA-1717845,CA,"('CA', 'Contra Costa')",Concord,94519,32375.606958079265,FEMALE,43.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+107,EMBUSA-1717999,TX,"('TX', 'Bell')",Temple,76501,3644.0817195054283,FEMALE,28.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+108,EMBUSA-1719845,IL,"('IL', 'McHenry')",Lake In The Hills,60156,12563.511196013795,FEMALE,53.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+109,EMBUSA-1722917,TX,"('TX', 'Lubbock')",Lubbock,79403,9699.615791001414,FEMALE,48.0,High School,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+110,EMBUSA-1723570,OK,"('OK', 'Canadian')",,,26158.79117011236,MALE,24.0,University/College,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+111,EMBUSA-1724442,OK,"('OK', 'Oklahoma')",Oklahoma City,73159,5809.7910730931335,MALE,36.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+112,EMBUSA-1731612,RI,"('RI', 'Washington')",Exeter,02822,3695.720500000001,FEMALE,65.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+113,EMBUSA-1733754,MD,"('MD', 'Montgomery')",Silver Spring,20906,6085.505884974916,MALE,47.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+114,EMBUSA-1738503,CA,"('CA', 'San Diego')",Anaheim,92807,4935.535491841197,FEMALE,27.0,Postgraduate Education,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,1
+115,EMBUSA-1740743,MI,"('MI', 'Wayne')",Farmington Hills,48335,18609.377000000008,FEMALE,41.0,High School,Decline to answer,Decline to answer,Full-time work,"$15,000 - $24,999 USD",20000,1
+116,EMBUSA-1741583,IL,"('IL', 'McHenry')",Mchenry,60050,69555.05839892381,FEMALE,27.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+117,EMBUSA-1743884,WA,"('WA', 'Kitsap')",Gig Harbor,98329,20497.48637460837,FEMALE,23.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+118,EMBUSA-1744387,FL,"('FL', 'Hillsborough')",Tampa,33619,9963.807231258841,MALE,22.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+119,EMBUSA-1744567,PA,"('PA', 'Washington')",Monongahela,15063,1178.4893,FEMALE,59.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+120,EMBUSA-1746414,MD,"('MD', 'Baltimore')",Rosedale,21237,10195.317460981698,MALE,42.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+121,EMBUSA-1750807,CA,"('CA', 'San Francisco')",San Francisco,94112,10826.555,MALE,50.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+122,EMBUSA-1751389,IL,"('IL', 'Lake')",Zion,60099,9141.828131390224,MALE,28.0,High School,Mixed racial background,Decline to answer,Full-time work,"$25,000 - $49,999 USD",37500,2
+123,EMBUSA-1751897,IL,"('IL', 'Lake')",Zion,60099,8755.91471246414,FEMALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+124,EMBUSA-1753202,OK,"('OK', 'Cleveland')",Norman,73069,14381.217000000002,MALE,31.0,High School,Native American or Alaskan native,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,7
+125,EMBUSA-1753322,PA,"('PA', 'Westmoreland')",Export,15632,28271.26199999999,FEMALE,38.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$200,000 USD or more",250000,4
+126,EMBUSA-1753882,MI,"('MI', 'Monroe')",Rockwood,48173,41354.836,MALE,40.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+127,EMBUSA-1755734,UT,"('UT', 'Utah')",Orem,84057,1570.3225424054317,MALE,27.0,High School,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,5
+128,EMBUSA-1756194,CA,"('CA', 'San Diego')",Poway,92064,10838.374785321756,MALE,54.0,High School,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+129,EMBUSA-1756543,OK,"('OK', 'Oklahoma')",Oklahoma City,73160,13810.798551007421,FEMALE,26.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+130,EMBUSA-1756545,IA,"('IA', 'Linn')",Cedar Rapids,52402,14558.083693754701,FEMALE,51.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+131,EMBUSA-1757006,OK,"('OK', 'Oklahoma')",Oklahoma City,73114,7094.525990335572,FEMALE,25.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,3
+132,EMBUSA-1757880,CO,"('CO', 'Denver')",San Jose,95141,5252.546581793389,MALE,27.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+133,EMBUSA-1758241,CA,"('CA', 'San Diego')",National City,91950,17474.21385631068,FEMALE,60.0,None completed,White,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+134,EMBUSA-1759490,PA,"('PA', 'Montgomery')",Philadelphia,19115,13943.622917098446,FEMALE,28.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+135,EMBUSA-1760607,FL,"('FL', 'Hillsborough')",Palm Harbor,34684,15568.898745592263,MALE,57.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+136,EMBUSA-1760815,OR,"('OR', 'Multnomah')",Hillsboro,97006,24547.400890547262,MALE,55.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+137,EMBUSA-1762543,TX,"('TX', 'Bexar')",Corpus Christi,78408,8621.198406141033,MALE,39.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+138,EMBUSA-1766310,NJ,"('NJ', 'Salem')",Elk,08062,10531.86,MALE,48.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+139,EMBUSA-1773703,CA,"('CA', 'San Joaquin')",Stockton,95210,15782.500999999998,MALE,34.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+140,EMBUSA-1775397,TX,"('TX', 'Kaufman')",Forney,75126,36436.68000000001,MALE,35.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,6
+141,EMBUSA-1776707,MI,"('MI', 'Ottawa')",Walker,49534,9333.149073499157,MALE,48.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+142,EMBUSA-1777770,MA,"('MA', 'Middlesex')",Fitchburg,01420,32312.2253078759,FEMALE,31.0,University/College,Decline to answer,Decline to answer,Full-time work,"$100,000 - $149,999 USD",125000,3
+143,EMBUSA-1780041,IL,"('IL', 'Scott')",Winchester,62694,29094.877419402674,MALE,35.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,6
+144,EMBUSA-1787402,NJ,"('NJ', 'Camden')",Lindenwold,08021,9571.761,FEMALE,35.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+145,EMBUSA-1789289,MI,"('MI', 'Macomb')",Warren,48089,22540.252000000004,FEMALE,27.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+146,EMBUSA-1802023,IA,"('IA', 'Osceola')",Ashton,51232,20908.494268356648,FEMALE,41.0,University/College,Decline to answer,Decline to answer,Full-time work,"$15,000 - $24,999 USD",20000,7
+147,EMBUSA-1803245,FL,"('FL', 'Lee')",Miami,33169,721.2884999999999,MALE,26.0,None completed,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+148,EMBUSA-1805633,MA,"('MA', 'Suffolk')",Boston,02124,4524.641370797547,MALE,47.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+149,EMBUSA-1806995,GA,"('GA', 'Cobb')",Atlanta,30318,29756.172258485778,FEMALE,33.0,Postgraduate Education,Black or African American,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+150,EMBUSA-1812994,MI,"('MI', 'Alpena')",Alpena,49707,1481.2255999999998,FEMALE,32.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+151,EMBUSA-1813145,AR,"('AR', 'Craighead')",Jonesboro,72401,7253.428057619047,FEMALE,38.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+152,EMBUSA-1816025,WI,"('WI', 'Wood')",Arkdale,54613,4453.713895137681,MALE,50.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+153,EMBUSA-1817628,VA,"('VA', 'Bedford')",Hagerstown,21740,18963.303000805798,MALE,38.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+154,EMBUSA-1819521,OH,"('OH', 'Clinton')",Wilmington,45177,48200.567196060874,MALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+155,EMBUSA-1821410,WI,"('WI', 'Waushara')",Plainfield,54966,16860.88647457249,FEMALE,45.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,1
+156,EMBUSA-1825732,GA,"('GA', 'Fulton')",Riverside,64150,7456.880205802269,FEMALE,24.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+157,EMBUSA-1835052,PA,"('PA', 'Butler')",Butler,16001,16538.127000000008,MALE,33.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+158,EMBUSA-1836367,MA,"('MA', 'Norfolk')",Weymouth,02190,19370.267077072313,MALE,52.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,5
+159,EMBUSA-1842385,OH,"('OH', 'Trumbull')",Garfield Heights,44125,80176.2,FEMALE,50.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+160,EMBUSA-1843328,LA,"('LA', 'Orleans')",,,5728.084499999998,FEMALE,35.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+161,EMBUSA-1843534,FL,"('FL', 'Orange')",Belle Isle,32812,2830.502376027264,MALE,37.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+162,EMBUSA-1849153,DE,"('DE', 'New Castle')",Wilmington,19802,13443.810328865353,MALE,41.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+163,EMBUSA-1851119,CO,"('CO', 'Boulder')",Lafayette,80026,7087.27668986711,FEMALE,29.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+164,EMBUSA-1854823,CA,"('CA', 'San Diego')",Lakeside,92040,20730.073999999997,FEMALE,31.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+165,EMBUSA-1856573,NJ,"('NJ', 'Mercer')",Matawan,07747,41465.19911825727,MALE,39.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+166,EMBUSA-1862899,IL,"('IL', 'Cook')",Elk Grove Village,60007,18815.043000000005,FEMALE,55.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+167,EMBUSA-1867699,CA,"('CA', 'Lassen')",Mineral,96063,18614.88596176755,MALE,45.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+168,EMBUSA-1867893,MS,"('MS', 'Harrison')",Biloxi,39532,13101.876000000002,MALE,52.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+169,EMBUSA-1874533,WA,"('WA', 'Snohomish')",Everett,98201,13477.33512626532,MALE,26.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+170,EMBUSA-1876026,MN,"('MN', 'Hennepin')",Minneapolis,55427,3143.989034453564,MALE,33.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+171,EMBUSA-1878222,MI,"('MI', 'Wayne')",Flat Rock,48134,16700.003822460578,FEMALE,32.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+172,EMBUSA-1886051,CA,"('CA', 'Contra Costa')",Bay Point,94565,36283.241999999984,FEMALE,38.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,6
+173,EMBUSA-1892799,CT,"('CT', 'New London')",Norwich,06380,29447.54166407118,MALE,28.0,High School,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+174,EMBUSA-1896106,TN,"('TN', 'Sullivan')",Jacksonville,32246,8263.582658577989,FEMALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+175,EMBUSA-1908497,WI,"('WI', 'Milwaukee')",Franklin,53132,5698.124386107165,FEMALE,49.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+176,EMBUSA-1915510,MI,"('MI', 'Saginaw')",Saginaw,48601,4244.386700000001,FEMALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+177,EMBUSA-1915776,CA,"('CA', 'Solano')",Fairfield,94533,2560.5083000000004,FEMALE,39.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+178,EMBUSA-1915938,CA,"('CA', 'Los Angeles')",Paramount,90723,8185.908000000001,MALE,49.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+179,EMBUSA-1916450,MI,"('MI', 'Allegan')",Allegan,49010,6524.111360390946,FEMALE,26.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+180,EMBUSA-1916839,CA,"('CA', 'Contra Costa')",Pittsburg,94565,11429.356999999998,MALE,42.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+181,EMBUSA-1917607,NC,"('NC', 'Wake')",Garner,27529,20653.98,MALE,38.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+182,EMBUSA-1919501,CO,"('CO', 'Adams')",Aurora,80011,2024.8017751709756,FEMALE,43.0,High School,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+183,EMBUSA-1920612,NH,"('NH', 'Belknap')",Mansfield,06250,8445.66937904509,MALE,38.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+184,EMBUSA-1924685,OH,"('OH', 'Cuyahoga')",Pepper Pike,44124,13901.092515332837,FEMALE,53.0,University/College,Native American or Alaskan native,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+185,EMBUSA-1925210,MA,"('MA', 'Worcester')",Lancaster,01523,7795.713399999997,FEMALE,58.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,1
+186,EMBUSA-1925395,NV,"('NV', 'Clark')",Las Vegas,89149,20859.611,MALE,41.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+187,EMBUSA-1925413,IN,"('IN', 'Gibson')",Oakland City,47660,19861.76925498008,MALE,51.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+188,EMBUSA-1925618,PA,"('PA', 'Allegheny')",Pittsburgh,15229,5824.182080456157,MALE,34.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+189,EMBUSA-1926068,GA,"('GA', 'Hall')",Flowery Branch,30542,12633.27062377544,MALE,55.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+190,EMBUSA-1926289,FL,"('FL', 'Charlotte')",Sarasota,34237,5154.874570167785,FEMALE,37.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+191,EMBUSA-1926377,WA,"('WA', 'King')",Renton,98058,32724.28429980797,MALE,31.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+192,EMBUSA-1930499,MD,"('MD', 'Calvert')",Waldorf,20601,32822.1973374613,FEMALE,35.0,High School,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,7
+193,EMBUSA-1933492,IA,"('IA', 'Johnson')",Iowa City,52246,1309.416829049505,MALE,19.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+194,EMBUSA-1936713,OH,"('OH', 'Hamilton')",Cincinnati,45216,18590.49157264687,MALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,6
+195,EMBUSA-1937046,MO,"('MO', 'Johnson')",Warrensburg,64093,56735.27993099482,FEMALE,59.0,University/College,Native American or Alaskan native,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+196,EMBUSA-1938689,FL,"('FL', 'Pinellas')",Boston,02134,24701.219824957043,MALE,27.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+197,EMBUSA-1940134,AZ,"('AZ', 'Maricopa')",Phoenix,85022,10537.878391798142,FEMALE,35.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+198,EMBUSA-1940194,CA,"('CA', 'Contra Costa')",Pittsburg,94565,4095.559111027778,MALE,49.0,University/College,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+199,EMBUSA-1941235,TX,"('TX', 'Kleberg')",Kingsville,78363,3298.604200000001,MALE,39.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+200,EMBUSA-1943115,FL,"('FL', 'Orange')",St. Augustine,32092,15216.15759153318,MALE,35.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+201,EMBUSA-1943542,FL,"('FL', 'Seminole')",Winter Springs,32708,21896.447171947224,FEMALE,41.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,6
+202,EMBUSA-1947496,WI,"('WI', 'Kenosha')",Silver Lake,53170,35742.581292042036,MALE,50.0,High School,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,5
+203,EMBUSA-1947687,AL,"('AL', 'Baldwin')",Oregon City,97045,23141.526958974362,MALE,53.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+204,EMBUSA-1947819,TX,"('TX', 'Fort Bend')",Missouri City,77489,35235.22573061225,FEMALE,51.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+205,EMBUSA-1960656,WA,"('WA', 'Snohomish')",Marysville,98270,14119.958126718671,MALE,36.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+206,EMBUSA-1960807,FL,"('FL', 'Broward')",Pembroke Pines,33029,15047.137739313597,MALE,53.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+207,EMBUSA-1962092,IL,"('IL', 'Madison')",Granite City,62040,2409.011607327141,MALE,31.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+208,EMBUSA-1966448,IL,"('IL', 'Cook')",Chicago,60629,4490.243000000001,MALE,48.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+209,EMBUSA-1968472,FL,"('FL', 'Polk')",Polk City,33868,12867.894611385356,MALE,40.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+210,EMBUSA-1969611,CA,"('CA', 'Mendocino')",Fort Bragg,95437,1549.4047057753164,MALE,45.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+211,EMBUSA-1970872,MO,"('MO', 'Jackson')",Grain Valley,64029,3826.715384620501,FEMALE,36.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+212,EMBUSA-1971573,IA,"('IA', 'Linn')",Cedar Rapids,52403,3984.0732,FEMALE,36.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+213,EMBUSA-1981210,VA,"('VA', 'Virginia Beach city')",Virginia Beach,23453,3355.0388152142855,FEMALE,49.0,University/College,Other race,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+214,EMBUSA-1981583,MI,"('MI', 'Ingham')",Lansing,48911,3249.399978368794,MALE,31.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+215,EMBUSA-1982687,GA,"('GA', 'DeKalb')",Stone Mountain,30087,11860.973323232321,MALE,37.0,University/College,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+216,EMBUSA-1983002,WI,"('WI', 'Dodge')",Beaver Dam,53916,43119.9993807502,FEMALE,47.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,5
+217,EMBUSA-1983142,VA,"('VA', 'Henrico')",Glen Allen,23060,55879.47183670937,MALE,41.0,University/College,Decline to answer,Decline to answer,Full-time work,"$200,000 USD or more",250000,4
+218,EMBUSA-1985010,CT,"('CT', 'Hartford')",East Hartford,06118,8505.133054183283,FEMALE,33.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+219,EMBUSA-1985071,GA,"('GA', 'Rockdale')",Conyers,30012,32841.13605917159,FEMALE,27.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+220,EMBUSA-1990110,CA,"('CA', 'San Diego')",San Diego,92037,11130.847326209689,FEMALE,43.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,1
+221,EMBUSA-1992411,FL,"('FL', 'Manatee')",Bradenton,34207,7645.7279467358485,FEMALE,42.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+222,EMBUSA-1995911,GA,"('GA', 'DeKalb')",Atlanta,30312,14248.122896457766,MALE,46.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+223,EMBUSA-1997137,TX,"('TX', 'Harris')",Houston,77088,3685.174678284519,MALE,33.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+224,EMBUSA-1999908,IL,"('IL', 'Winnebago')",Rockford,61108,3116.772317634417,FEMALE,27.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+225,EMBUSA-2000971,CA,"('CA', 'Sacramento')",Sacramento,95825,12679.678671198842,MALE,34.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+226,EMBUSA-2001594,MO,"('MO', 'St. Charles')",Wentzville,63385,2717.9146,FEMALE,60.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+227,EMBUSA-2001661,WA,"('WA', 'Grant')",Ephrata,98823,23088.771000000004,MALE,43.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+228,EMBUSA-2004438,OK,"('OK', 'Cleveland')",Oklahoma City,73170,7022.335732115127,MALE,36.0,Postgraduate Education,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+229,EMBUSA-2005271,TX,"('TX', 'Tarrant')",Fort Worth,76244,17821.223903027218,MALE,38.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+230,EMBUSA-2006225,CT,"('CT', 'Fairfield')",Bridgeport,06605,5386.506999999998,FEMALE,59.0,University/College,Black or African American,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+231,EMBUSA-2006703,TX,"('TX', 'Dallas')",Mesquite,75149,30102.35182033753,MALE,36.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+232,EMBUSA-2006973,OH,"('OH', 'Stark')",Alliance,44601,1383.0836562258953,FEMALE,28.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+233,EMBUSA-2007309,WI,"('WI', 'Milwaukee')",South Milwaukee,53172,4851.0586,FEMALE,26.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,6
+234,EMBUSA-2007603,AZ,"('AZ', 'Maricopa')",Queen Creek,85142,24926.804662330032,MALE,43.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+235,EMBUSA-2007814,IN,"('IN', 'Lake')",Hammond,46323,27135.084468752495,FEMALE,44.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+236,EMBUSA-2007938,CA,"('CA', 'Los Angeles')",Monterey Park,91754,5579.633940035834,MALE,50.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+237,EMBUSA-2008264,TX,"('TX', 'Bexar')",San Antonio,78244,13512.9375,FEMALE,42.0,High School,Black or African American,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+238,EMBUSA-2008809,MO,"('MO', 'Clay')",Kansas City,64118,11997.457197912385,FEMALE,43.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+239,EMBUSA-2009661,MI,"('MI', 'Wayne')",Brownstown Charter Township,48193,14046.515316442812,MALE,38.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+240,EMBUSA-2009684,WI,"('WI', 'St. Croix')",New Richmond,54017,555.8234000000001,FEMALE,30.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+241,EMBUSA-2010315,IA,"('IA', 'Wapello')",Ottumwa,52501,4386.529000000001,FEMALE,37.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+242,EMBUSA-2011735,OK,"('OK', 'Oklahoma')",Oklahoma City,73132,17614.557000000004,MALE,58.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+243,EMBUSA-2021801,WA,"('WA', 'Benton')",Benton City,99320,20285.143000000004,MALE,33.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+244,EMBUSA-2022500,TX,"('TX', 'Harris')",Houston,77008,13026.21269801955,FEMALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+245,EMBUSA-2029111,CA,"('CA', 'San Diego')",San Diego,92105,42203.34780707396,MALE,44.0,Compulsory school,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+246,EMBUSA-2031072,TX,"('TX', 'Denton')",,,34835.88125364432,MALE,44.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+247,EMBUSA-2033855,UT,"('UT', 'Salt Lake')",Fort Collins,80526,5597.671842465754,MALE,34.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+248,EMBUSA-2034896,MD,"('MD', 'Baltimore')",Woodlawn,21244,14228.06,MALE,29.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,2
+249,EMBUSA-2035680,MA,"('MA', 'Bristol')",Taunton,02718,31716.10200000001,MALE,28.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+250,EMBUSA-2040745,FL,"('FL', 'Hillsborough')",Lutz,33549,15386.363254856675,FEMALE,43.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+251,EMBUSA-2040862,TN,"('TN', 'Campbell')",Mckinney,75069,15513.70317552817,MALE,25.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+252,EMBUSA-2042501,AZ,"('AZ', 'Maricopa')",Phoenix,85035,3382.7501491708726,MALE,25.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+253,EMBUSA-2042518,TN,"('TN', 'Montgomery')",Woodlawn,37191,23185.17198073217,MALE,53.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+254,EMBUSA-2045253,TX,"('TX', 'Hidalgo')",Edinburg,78541,5623.919779226805,MALE,34.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+255,EMBUSA-2053037,NJ,"('NJ', 'Burlington')",Newport News,23604,6554.817124810218,FEMALE,41.0,University/College,Decline to answer,"No, not of Hispanic origin",Full-time work,"$150,000 - $199,999 USD",175000,3
+256,EMBUSA-2057200,OR,"('OR', 'Multnomah')",Gresham,97030,15917.933000000003,FEMALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,5
+257,EMBUSA-2058533,RI,"('RI', 'Providence')",Providence,02908,3473.8503501420014,MALE,37.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,5
+258,EMBUSA-2058868,PA,"('PA', 'Berks')",Wernersville,19565,14610.451971122995,MALE,35.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+259,EMBUSA-2058956,MI,"('MI', 'Mecosta')",,,15793.18982069672,FEMALE,42.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+260,EMBUSA-2059879,AZ,"('AZ', 'Maricopa')",Tempe,85281,14685.335495055137,MALE,32.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+261,EMBUSA-2060918,MI,"('MI', 'Ottawa')",Grand Rapids,49508,9510.380219412724,FEMALE,27.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+262,EMBUSA-2064664,RI,"('RI', 'Kent')",East Greenwich,02818,39028.46000000001,FEMALE,34.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+263,EMBUSA-2064859,IN,"('IN', 'LaPorte')",Westville,46391,18590.127049798113,FEMALE,41.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+264,EMBUSA-2066628,VA,"('VA', 'Northumberland')",Callao,22435,1931.8119369331257,FEMALE,52.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+265,EMBUSA-2067349,TX,"('TX', 'Travis')",Bee Cave,78738,16395.166187307455,FEMALE,50.0,University/College,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+266,EMBUSA-2069269,NE,"('NE', 'Gage')",Beatrice,68310,2726.8101452054793,FEMALE,57.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+267,EMBUSA-2069361,WA,"('WA', 'Pierce')",Puyallup,98375,15075.451780747953,FEMALE,24.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+268,EMBUSA-2070102,MD,"('MD', 'Charles')",Waldorf,20601,19550.22771428572,MALE,59.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$200,000 USD or more",250000,5
+269,EMBUSA-2070463,NJ,"('NJ', 'Essex')",Maple Shade Township,08052,16858.6624338725,FEMALE,27.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+270,EMBUSA-2071237,TX,"('TX', 'Nueces')",Corpus Christi,78412,11812.201124792013,MALE,67.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+271,EMBUSA-2071358,NY,"('NY', 'Onondaga')",East Syracuse,13057,9182.529410714822,MALE,44.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,5
+272,EMBUSA-2071802,TX,"('TX', 'Dallas')",Grand Prairie,75052,2800.8152106504153,MALE,40.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+273,EMBUSA-2071868,OH,"('OH', 'Clermont')",Cincinnati,45249,18846.63,MALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+274,EMBUSA-2072183,WI,"('WI', 'Milwaukee')",Milwaukee,53208,20926.771528656132,MALE,37.0,High School,Other race,Decline to answer,Full-time work,"$50,000 - $79,999 USD",65000,6
+275,EMBUSA-2074167,OK,"('OK', 'Tulsa')",Tulsa,74133,3796.9051339247694,FEMALE,44.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+276,EMBUSA-2075799,AZ,"('AZ', 'Maricopa')",Prescott,86305,13452.76629079573,FEMALE,40.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+277,EMBUSA-2078693,TX,"('TX', 'Williamson')",Austin,78758,11240.492999999997,FEMALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+278,EMBUSA-2080862,TX,"('TX', 'Dallas')",Irving,75063,8674.213277300612,MALE,51.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,1
+279,EMBUSA-2081760,TX,"('TX', 'Tarrant')",Austin,78753,15971.372391026314,MALE,30.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+280,EMBUSA-2087643,MA,"('MA', 'Middlesex')",Malden,02148,2641.300334260563,MALE,43.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+281,EMBUSA-2088375,FL,"('FL', 'Sarasota')",North Port,34286,25022.910813632443,MALE,42.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+282,EMBUSA-2088768,TX,"('TX', 'Harris')",Tomball,77375,5270.703999999998,FEMALE,51.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,7
+283,EMBUSA-2091578,NE,"('NE', 'Lincoln')",North Platte,69101,5396.13873413231,FEMALE,26.0,Compulsory school,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+284,EMBUSA-2092704,TN,"('TN', 'Hamilton')",Chattanooga,37421,3443.729838498556,FEMALE,45.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+285,EMBUSA-2093266,MI,"('MI', 'Monroe')",Maybee,48159,24704.443000000003,FEMALE,55.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+286,EMBUSA-2095025,NC,"('NC', 'Mecklenburg')",Charlotte,28262,11036.476119915338,FEMALE,29.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,7
+287,EMBUSA-2095147,FL,"('FL', 'Clay')",Orange Park,32073,10748.375181984828,FEMALE,35.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,6
+288,EMBUSA-2096280,UT,"('UT', 'Davis')",Clearfield,84015,4504.761658803192,MALE,28.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+289,EMBUSA-2097447,MD,"('MD', 'Frederick')",Mount Airy,21771,15857.342588105728,MALE,36.0,Postgraduate Education,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+290,EMBUSA-2098157,MI,"('MI', 'Wayne')",Detroit,48238,7308.046491738635,MALE,67.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+291,EMBUSA-2098672,GA,"('GA', 'Clayton')",Kennesaw,30144,12760.009386363636,FEMALE,23.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+292,EMBUSA-2098832,TX,"('TX', 'Bexar')",San Antonio,78223,2344.462,MALE,33.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,2
+293,EMBUSA-2100138,KS,"('KS', 'Montgomery')",Bartlesville,74006,9815.852933569231,FEMALE,47.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+294,EMBUSA-2106806,NJ,"('NJ', 'Cumberland')",Vineland,08360,4366.260121025907,FEMALE,47.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+295,EMBUSA-2107064,MN,"('MN', 'Ramsey')",Saint Paul,55130,23325.238407821944,MALE,51.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+296,EMBUSA-2107101,MA,"('MA', 'Middlesex')",Medford,02155,3270.7023202319424,MALE,38.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,5
+297,EMBUSA-2107423,TX,"('TX', 'Harris')",Pasadena,77504,8076.994030553116,FEMALE,42.0,Postgraduate Education,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+298,EMBUSA-2108517,TX,"('TX', 'Dallas')",Dallas,75211,21482.542183420675,MALE,33.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+299,EMBUSA-2110733,ID,"('ID', 'Canyon')",Auburn,98002,70366.5132662162,MALE,34.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+300,EMBUSA-2111586,AL,"('AL', 'Elmore')",Tallassee,36078,28098.775809808612,FEMALE,42.0,High School,Other race,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+301,EMBUSA-2113255,WI,"('WI', 'Outagamie')",Appleton,54911,5911.454218839942,MALE,40.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,5
+302,EMBUSA-2117090,IL,"('IL', 'Will')",Joliet,60432,5963.307,FEMALE,27.0,Postgraduate Education,Black or African American,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,9
+303,EMBUSA-2117630,TX,"('TX', 'Montgomery')",Houston,77073,15011.131303684879,MALE,42.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,6
+304,EMBUSA-2120165,MI,"('MI', 'Ottawa')",Spring Lake,49456,20036.16799059561,FEMALE,50.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+305,EMBUSA-2120290,UT,"('UT', 'Davis')",Bountiful,84010,5562.46405747416,FEMALE,28.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+306,EMBUSA-2120456,WI,"('WI', 'Jefferson')",Watertown,53094,993.2526257330059,FEMALE,60.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+307,EMBUSA-2123868,WI,"('WI', 'Dane')",Lake Zurich,60047,21442.720000000005,FEMALE,57.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+308,EMBUSA-2124059,FL,"('FL', 'Lake')",Clermont,34711,24430.092406743945,MALE,47.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+309,EMBUSA-2124945,MN,"('MN', 'Steele')",Owatonna,55060,11987.436576106602,FEMALE,36.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+310,EMBUSA-2126569,OH,"('OH', 'Portage')",,,20884.206600777703,MALE,67.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+311,EMBUSA-2127390,OK,"('OK', 'Oklahoma')",Norman,73072,25753.739999999998,FEMALE,61.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+312,EMBUSA-2127654,TX,"('TX', 'Travis')",Austin,78729,5556.567427029077,MALE,33.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,1
+313,EMBUSA-2127831,CA,"('CA', 'Sonoma')",Santa Rosa,95407,19729.718460077842,MALE,31.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+314,EMBUSA-2128864,IA,"('IA', 'Sioux')",Sioux Center,51250,3811.1611,MALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$150,000 - $199,999 USD",175000,5
+315,EMBUSA-2129486,IA,"('IA', 'Floyd')",Stillwater,74075,2002.1930867494357,MALE,33.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+316,EMBUSA-2130757,IN,"('IN', 'Allen')",Fort Wayne,46835,8824.829469481483,FEMALE,46.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+317,EMBUSA-2132435,MI,"('MI', 'Branch')",Coldwater,49036,14668.72054647059,FEMALE,53.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+318,EMBUSA-2133205,PA,"('PA', 'Allegheny')",Pittsburgh,15227,4004.759380516177,MALE,49.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+319,EMBUSA-2133517,NV,"('NV', 'Clark')",Las Vegas,89123,1797.497534079224,FEMALE,39.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+320,EMBUSA-2136654,NY,"('NY', 'Niagara')",North Tonawanda,14120,19948.32820998573,FEMALE,46.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+321,EMBUSA-2136908,FL,"('FL', 'Orange')",Orlando,32835,17498.523132712806,MALE,68.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+322,EMBUSA-2140128,NJ,"('NJ', 'Passaic')",Verona,07044,8349.517545605308,FEMALE,32.0,University/College,Native American or Alaskan native,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+323,EMBUSA-2140650,NH,"('NH', 'Merrimack')",Hooksett,03106,4202.221603521705,MALE,53.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+324,EMBUSA-2142422,WI,"('WI', 'Rock')",South Beloit,61080,3926.6842999999994,FEMALE,49.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+325,EMBUSA-2142671,FL,"('FL', 'Polk')",Polk City,33868,14922.528353285246,FEMALE,39.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+326,EMBUSA-2143313,MD,"('MD', 'Anne Arundel')",Annapolis,21403,5532.341300000001,MALE,35.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+327,EMBUSA-2144247,WI,"('WI', 'Eau Claire')",Eau Claire,54703,14240.115960587118,MALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+328,EMBUSA-2145814,CA,"('CA', 'San Diego')",San Diego,92114,19504.8805483871,MALE,39.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+329,EMBUSA-2146021,IL,"('IL', 'Cook')",Chicago,60618,5994.239854325173,FEMALE,34.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+330,EMBUSA-2146115,AL,"('AL', 'Etowah')",Gadsden,35903,15873.645113907693,MALE,63.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+331,EMBUSA-2146372,VA,"('VA', 'Spotsylvania')",Bealeton,22712,21634.416396031345,FEMALE,24.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+332,EMBUSA-2146549,CA,"('CA', 'San Diego')",San Diego,92126,6867.118700000002,MALE,54.0,Postgraduate Education,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+333,EMBUSA-2146558,TX,"('TX', 'Collin')",Melissa,75454,38240.72495863636,MALE,48.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+334,EMBUSA-2146801,MI,"('MI', 'Oakland')",West Bloomfield Township,48324,6413.390004330707,FEMALE,59.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+335,EMBUSA-2147263,TX,"('TX', 'Fort Bend')",Rosenberg,77471,16277.839000000004,FEMALE,41.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+336,EMBUSA-2148443,CT,"('CT', 'New Haven')",Meriden,06450,19196.020813811923,FEMALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$200,000 USD or more",250000,1
+337,EMBUSA-2148608,TX,"('TX', 'Travis')",Austin,78751,9933.22399828326,FEMALE,45.0,High School,Decline to answer,Decline to answer,Full-time work,"$25,000 - $49,999 USD",37500,4
+338,EMBUSA-2148643,IN,"('IN', 'Lake')",Merrillville,46410,5146.218309499778,MALE,35.0,University/College,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+339,EMBUSA-2148711,NV,"('NV', 'Clark')",Henderson,89015,22572.955585891574,MALE,51.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+340,EMBUSA-2148829,MA,"('MA', 'Middlesex')",Billerica,01821,8171.119195427092,FEMALE,51.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+341,EMBUSA-2149949,OK,"('OK', 'Ottawa')",Grove,74344,26527.39287548611,FEMALE,29.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+342,EMBUSA-2150761,MD,"('MD', 'Baltimore')",Parkville,21234,3673.760260938525,MALE,49.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+343,EMBUSA-2150933,PA,"('PA', 'Beaver')",Pittsburgh,15202,17255.89729065306,MALE,36.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+344,EMBUSA-2152691,NJ,"('NJ', 'Camden')",Sicklerville,08081,23951.136360259698,MALE,35.0,High School,Other race,Decline to answer,Full-time work,"$15,000 - $24,999 USD",20000,5
+345,EMBUSA-2153196,MS,"('MS', 'Tate')",Olive Branch,38654,17915.45271148021,MALE,43.0,University/College,White,Decline to answer,Full-time work,"$25,000 - $49,999 USD",37500,4
+346,EMBUSA-2153922,TX,"('TX', 'Denton')",Hilton Head Island,29928,7681.384747337463,MALE,28.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,1
+347,EMBUSA-2158033,MO,"('MO', 'Jackson')",Independence,64050,8069.251393610468,FEMALE,38.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+348,EMBUSA-2158637,OH,"('OH', 'Summit')",Akron,44305,7682.128735602974,FEMALE,64.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+349,EMBUSA-2159581,TX,"('TX', 'Tyler')",Woodville,75979,1323.0570999999998,FEMALE,31.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,8
+350,EMBUSA-2159698,PA,"('PA', 'Montgomery')",Willow Grove,19090,5653.6846,FEMALE,41.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+351,EMBUSA-2160674,HI,"('HI', 'Honolulu')",Honolulu,96816,2892.4424580033183,MALE,38.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,1
+352,EMBUSA-2161754,IA,"('IA', 'Butler')",Osage,50461,25585.057918831175,FEMALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+353,EMBUSA-2162163,HI,"('HI', 'Honolulu')",Honolulu,96818,5309.756,MALE,38.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+354,EMBUSA-2162520,OH,"('OH', 'Butler')",Franklin,45005,12025.750589850002,MALE,41.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+355,EMBUSA-2162708,NV,"('NV', 'Clark')",Detroit,48223,8892.359064399803,MALE,44.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+356,EMBUSA-2162734,WI,"('WI', 'Winnebago')",Neenah,54956,25777.693000000003,FEMALE,51.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+357,EMBUSA-2164768,PA,"('PA', 'Lycoming')",Williamsport,17701,6017.935499999999,MALE,37.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+358,EMBUSA-2164950,DE,"('DE', 'New Castle')",Bear,19701,72275.27890471205,MALE,35.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+359,EMBUSA-2165548,CA,"('CA', 'Orange')",Irvine,92614,4304.202852304933,MALE,31.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+360,EMBUSA-2166240,UT,"('UT', 'Davis')",Layton,84040,26861.163763860346,FEMALE,45.0,Postgraduate Education,Black or African American,"Yes, of Hispanic origin",Full-time work,"$200,000 USD or more",250000,4
+361,EMBUSA-2166384,TX,"('TX', 'Tarrant')",Watauga,76148,5874.8381329625,FEMALE,27.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+362,EMBUSA-2166469,NC,"('NC', 'Gaston')",Charlotte,28269,155562.1746729575,FEMALE,30.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+363,EMBUSA-2166977,OK,"('OK', 'Canadian')",Piedmont,73078,11104.417235649962,FEMALE,26.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,5
+364,EMBUSA-2167426,NE,"('NE', 'Hall')",Grand Island,68803,2192.2017000000005,MALE,31.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+365,EMBUSA-2170427,KS,"('KS', 'Saline')",Salina,67401,2313.636898680905,MALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+366,EMBUSA-2171404,IL,"('IL', 'Kendall')",Naperville,60540,19160.29766583229,MALE,43.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,9
+367,EMBUSA-2172172,MA,"('MA', 'Bristol')",Rehoboth,02769,13225.606903684255,FEMALE,23.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+368,EMBUSA-2172255,VA,"('VA', 'Essex')",Tappahannock,22560,27513.076537759338,FEMALE,36.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+369,EMBUSA-2173121,NY,"('NY', 'Westchester')",White Plains,10603,27250.760133053216,FEMALE,44.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+370,EMBUSA-2173650,MA,"('MA', 'Essex')",Newburyport,01950,17397.640612421386,MALE,26.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+371,EMBUSA-2175737,TX,"('TX', 'Dallas')",Garland,75043,19767.55698727128,FEMALE,31.0,Postgraduate Education,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+372,EMBUSA-2176868,MO,"('MO', 'St. Charles')",Wentzville,63385,28895.281205231386,MALE,47.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+373,EMBUSA-2179428,CA,"('CA', 'Alameda')",Union City,94587,19554.432,MALE,38.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,7
+374,EMBUSA-2180760,NE,"('NE', 'Lancaster')",Lincoln,68521,3844.7866,FEMALE,52.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+375,EMBUSA-2181055,MO,"('MO', 'Cass')",Overland Park,66214,30044.458943783793,MALE,40.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,5
+376,EMBUSA-2181167,IL,"('IL', 'Kankakee')",Saint Anne,60964,16799.505999999994,MALE,38.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+377,EMBUSA-2181329,FL,"('FL', 'Manatee')",Bradenton,34209,8874.684290361447,FEMALE,25.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+378,EMBUSA-2182266,MN,"('MN', 'Hennepin')",Minneapolis,55437,12623.029424578526,MALE,44.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$150,000 - $199,999 USD",175000,3
+379,EMBUSA-2182636,TX,"('TX', 'Dallas')",Dallas,75241,24528.298061173537,MALE,44.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+380,EMBUSA-2183246,IA,"('IA', 'Grundy')",Grundy Center,50638,31049.735828840974,MALE,43.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+381,EMBUSA-2184011,NH,"('NH', 'Rockingham')",Fremont,03044,10224.805397936156,FEMALE,34.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,8
+382,EMBUSA-2184014,MO,"('MO', 'Jefferson')",Festus,63028,8775.222867651757,FEMALE,25.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,7
+383,EMBUSA-2184124,FL,"('FL', 'Collier')",Lehigh Acres,33974,7796.117809465798,FEMALE,41.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+384,EMBUSA-2184705,NC,"('NC', 'Cumberland')",Fayetteville,28305,3404.7700091631887,MALE,47.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,1
+385,EMBUSA-2184785,PA,"('PA', 'Cumberland')",Mechanicsburg,17055,12638.049457280831,MALE,50.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+386,EMBUSA-2186719,MN,"('MN', 'Stearns')",St. Cloud,56304,1975.5983000000003,MALE,29.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+387,EMBUSA-2187657,WI,"('WI', 'Manitowoc')",Manitowoc,54220,16288.349698455948,FEMALE,59.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+388,EMBUSA-2188029,NC,"('NC', 'Mecklenburg')",Charlotte,28213,23707.280999999995,MALE,41.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+389,EMBUSA-2188049,OK,"('OK', 'Garvin')",Pauls Valley,73075,20698.484717801075,FEMALE,44.0,University/College,Native American or Alaskan native,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,3
+390,EMBUSA-2188261,LA,"('LA', 'Ouachita')",Monroe,71203,7984.017134329349,FEMALE,28.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,6
+391,EMBUSA-2188832,TX,"('TX', 'Harris')",Stafford,77477,9780.66888704314,FEMALE,25.0,Postgraduate Education,Mixed racial background,Decline to answer,Full-time work,"$0 - $14,999 USD",7500,2
+392,EMBUSA-2191987,MD,"('MD', 'Anne Arundel')",Baltimore,21225,26072.59,MALE,42.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+393,EMBUSA-2192798,FL,"('FL', 'Sarasota')",Venice,34285,7919.56133875,FEMALE,52.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+394,EMBUSA-2194168,OK,"('OK', 'Tulsa')",Owasso,74055,21238.598975528366,MALE,35.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+395,EMBUSA-2195009,GA,"('GA', 'Fayette')",Fayetteville,30214,2065.7957382171894,FEMALE,25.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+396,EMBUSA-2196966,WA,"('WA', 'Spokane')",Spokane Valley,99206,30906.7669130589,MALE,28.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+397,EMBUSA-2197075,MS,"('MS', 'Harrison')",Long Beach,39560,27845.93457930417,FEMALE,45.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+398,EMBUSA-2197847,OH,"('OH', 'Hamilton')",Cincinnati,45238,3151.7674764364438,FEMALE,33.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+399,EMBUSA-2198148,AZ,"('AZ', 'Pima')",Scio,97374,9735.317072123804,FEMALE,30.0,University/College,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+400,EMBUSA-2198645,FL,"('FL', 'Hernando')",Weeki Wachee,34614,12327.962676052384,FEMALE,47.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,5
+401,EMBUSA-2198836,IL,"('IL', 'DuPage')",Lombard,60148,40779.58718029196,FEMALE,34.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,6
+402,EMBUSA-2199348,CA,"('CA', 'San Diego')",Oceanside,92057,35037.979999999996,MALE,21.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,6
+403,EMBUSA-2200201,OK,"('OK', 'Canadian')",Mustang,73064,29337.625,FEMALE,55.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+404,EMBUSA-2200540,OH,"('OH', 'Lucas')",Toledo,43604,5190.818066087477,FEMALE,31.0,Postgraduate Education,White,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+405,EMBUSA-2200623,AR,"('AR', 'Boone')",Harrison,72601,8140.030006927611,MALE,33.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+406,EMBUSA-2200657,SC,"('SC', 'Greenville')",Simpsonville,29680,7212.104999999998,MALE,39.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+407,EMBUSA-2200862,PA,"('PA', 'Allegheny')",Pittsburgh,15212,4730.806599999999,FEMALE,53.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+408,EMBUSA-2201005,FL,"('FL', 'Pasco')",New Castle,47362,17612.353431693606,FEMALE,39.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+409,EMBUSA-2203067,CO,"('CO', 'El Paso')",Lafayette,80026,8926.562590514704,MALE,29.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,6
+410,EMBUSA-2203214,CA,"('CA', 'Los Angeles')",Lancaster,93535,12004.433528160202,FEMALE,62.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+411,EMBUSA-2203835,NC,"('NC', 'Guilford')",High Point,27265,18314.463402428657,FEMALE,57.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+412,EMBUSA-2204544,FL,"('FL', 'Seminole')",Sanford,32771,3397.6443,FEMALE,39.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+413,EMBUSA-2205321,OK,"('OK', 'Choctaw')",Hugo,74743,28424.913349672017,FEMALE,39.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+414,EMBUSA-2206520,FL,"('FL', 'Sarasota')",Sarasota,34231,10032.633,MALE,59.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+415,EMBUSA-2206862,HI,"('HI', 'Honolulu')",Waianae,96792,7411.466000000001,FEMALE,40.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+416,EMBUSA-2207757,MO,"('MO', 'Platte')",Kansas City,64154,6347.374040078586,FEMALE,37.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,7
+417,EMBUSA-2208257,CA,"('CA', 'Tulare')",Porterville,93257,2091.257870138504,FEMALE,44.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,6
+418,EMBUSA-2208361,MI,"('MI', 'Wayne')",Southgate,48195,7372.644359839732,MALE,46.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+419,EMBUSA-2208544,MI,"('MI', 'Kalamazoo')",Galesburg,49053,8543.21554451326,MALE,25.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+420,EMBUSA-2210292,WI,"('WI', 'Wood')",Marshfield,54449,712.0800807039598,MALE,43.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+421,EMBUSA-2210869,FL,"('FL', 'Charlotte')",Sarasota,34240,3172.3152000000005,FEMALE,63.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+422,EMBUSA-2212846,GA,"('GA', 'Newton')",Covington,30014,41796.40867688472,FEMALE,50.0,Postgraduate Education,Decline to answer,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+423,EMBUSA-2212901,NC,"('NC', 'Mecklenburg')",Charlotte,28216,27251.416351288055,FEMALE,55.0,University/College,Decline to answer,Decline to answer,Full-time work,"$25,000 - $49,999 USD",37500,2
+424,EMBUSA-2212936,MA,"('MA', 'Middlesex')",Wakefield,01880,3343.0279999999984,FEMALE,43.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+425,EMBUSA-2213090,MO,"('MO', 'Webster')",Lebanon,65536,28763.09288837209,FEMALE,25.0,High School,White,Decline to answer,Full-time work,"$0 - $14,999 USD",7500,2
+426,EMBUSA-2213450,CT,"('CT', 'New Haven')",Meriden,06451,3543.5375711730144,FEMALE,37.0,High School,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,2
+427,EMBUSA-2213975,MI,"('MI', 'Macomb')",St. Clair Shores,48080,7864.810383324454,FEMALE,23.0,High School,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+428,EMBUSA-2215787,WI,"('WI', 'Sauk')",Baraboo,53913,15257.595999999996,FEMALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+429,EMBUSA-2217524,SC,"('SC', 'Darlington')",Hartsville,29550,852.2692522771534,FEMALE,28.0,High School,Mixed racial background,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+430,EMBUSA-2218419,WI,"('WI', 'Kenosha')",Crivitz,54114,21651.228999999992,MALE,41.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+431,EMBUSA-2218874,NY,"('NY', 'Schenectady')",Schenectady,12308,16667.055524974516,FEMALE,25.0,High School,Other race,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+432,EMBUSA-2219434,WI,"('WI', 'Manitowoc')",Sheboygan,53081,4143.945323337857,FEMALE,28.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+433,EMBUSA-2219611,VA,"('VA', 'Chesapeake city')",Chesapeake,23322,10099.205,MALE,42.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+434,EMBUSA-2220365,TX,"('TX', 'Bexar')",San Antonio,78245,2101.4314981467182,FEMALE,48.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+435,EMBUSA-2224648,TX,"('TX', 'Harris')",Crosby,77532,32009.006855309217,MALE,41.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+436,EMBUSA-2225546,KS,"('KS', 'Johnson')",Shawnee,66226,15190.10363419931,MALE,31.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+437,EMBUSA-2230438,FL,"('FL', 'Orange')",Orlando,32820,71451.57647065022,FEMALE,65.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,2
+438,EMBUSA-2230765,FL,"('FL', 'Orange')",Orlando,32817,20356.65297967086,FEMALE,32.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+439,EMBUSA-2230960,CA,"('CA', 'Kern')",Buttonwillow,93206,18689.005532131276,FEMALE,37.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+440,EMBUSA-2231442,OK,"('OK', 'Cleveland')",Norman,73071,17416.137863391566,MALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,6
+441,EMBUSA-2231679,GA,"('GA', 'Fulton')",,30349,11055.901306461337,FEMALE,42.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+442,EMBUSA-2232448,PA,"('PA', 'Allegheny')",West Homestead,15120,9668.552345007032,MALE,42.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+443,EMBUSA-2233700,NV,"('NV', 'Clark')",North Las Vegas,89032,8163.775169193154,FEMALE,31.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,5
+444,EMBUSA-2234106,IN,"('IN', 'Johnson')",Greenwood,46142,5730.495900561056,FEMALE,28.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+445,EMBUSA-2234680,CA,"('CA', 'Contra Costa')",Pacific Grove,93950,3043.5192729288215,MALE,31.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$150,000 - $199,999 USD",175000,4
+446,EMBUSA-2234707,MA,"('MA', 'Essex')",Weymouth,02189,28119.774887319887,MALE,50.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+447,EMBUSA-2235224,FL,"('FL', 'Pasco')",Lakeland,33811,47345.15826499208,MALE,26.0,Postgraduate Education,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+448,EMBUSA-2235869,OH,"('OH', 'Montgomery')",Dayton,45440,30673.955535875535,MALE,59.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+449,EMBUSA-2236672,AZ,"('AZ', 'Yavapai')",Chino Valley,86323,42143.895501495506,MALE,35.0,High School,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+450,EMBUSA-2236830,CA,"('CA', 'Butte')",Oroville,95965,2826.9339162589927,FEMALE,63.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+451,EMBUSA-2237446,WI,"('WI', 'Milwaukee')",Cudahy,53110,8419.344202714932,FEMALE,60.0,High School,White,Decline to answer,Full-time work,"$25,000 - $49,999 USD",37500,4
+452,EMBUSA-2237505,CA,"('CA', 'Santa Clara')",San Jose,95131,3037.1701017566766,MALE,27.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+453,EMBUSA-2238140,TX,"('TX', 'Ellis')",Midlothian,76065,12534.373531760435,FEMALE,47.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+454,EMBUSA-2238155,MI,"('MI', 'Oakland')",Madison Heights,48071,14111.532278447687,MALE,53.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+455,EMBUSA-2238188,PA,"('PA', 'Butler')",Fenelton,16034,20278.843204697157,MALE,42.0,High School,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+456,EMBUSA-2239478,NV,"('NV', 'Clark')",Henderson,89052,15051.073999999995,MALE,37.0,University/College,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+457,EMBUSA-2239842,CA,"('CA', 'Orange')",El Monte,91731,20112.55528490815,MALE,40.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+458,EMBUSA-2240775,IA,"('IA', 'Dallas')",Waukee,50263,609.3195999999999,FEMALE,29.0,None completed,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+459,EMBUSA-2241072,IA,"('IA', 'Delaware')",Hopkinton,52237,20555.255639736344,FEMALE,36.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+460,EMBUSA-2241375,MI,"('MI', 'Oakland')",Waterford Township,48328,3160.881943721622,FEMALE,33.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+461,EMBUSA-2241766,IA,"('IA', 'Linn')",Cedar Rapids,52402,6041.9398797533395,FEMALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+462,EMBUSA-2243334,CT,"('CT', 'New Haven')",New Haven,06511,6667.048699785408,FEMALE,22.0,High School,White,Decline to answer,Full-time work,"$25,000 - $49,999 USD",37500,2
+463,EMBUSA-2244054,KS,"('KS', 'Butler')",El Dorado,67042,2371.733758337349,MALE,30.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+464,EMBUSA-2244246,FL,"('FL', 'Lake')",Clermont,34715,1941.4729834596828,FEMALE,50.0,None completed,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+465,EMBUSA-2244687,FL,"('FL', 'Orange')",Orlando,32812,22386.71487005962,MALE,39.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+466,EMBUSA-2245519,NY,"('NY', 'New York City')",,10460,9934.131549127223,FEMALE,36.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+467,EMBUSA-2245741,WV,"('WV', 'Marion')",,,12189.99693398533,FEMALE,64.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,6
+468,EMBUSA-2246850,WA,"('WA', 'Kitsap')",Bremerton,98310,11658.430011604938,MALE,33.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,6
+469,EMBUSA-2246970,CA,"('CA', 'San Diego')",National City,91950,14071.352617751634,MALE,60.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+470,EMBUSA-2247265,CT,"('CT', 'Hartford')",,,15745.008,MALE,33.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+471,EMBUSA-2247445,WV,"('WV', 'Harrison')",Clarksburg,26301,2453.9444715839845,MALE,23.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+472,EMBUSA-2247998,OK,"('OK', 'Creek')",Sapulpa,74066,27156.282013056836,FEMALE,60.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+473,EMBUSA-2249980,MO,"('MO', 'Buchanan')",Saint Joseph,64506,24781.46511180651,FEMALE,52.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+474,EMBUSA-2251184,TX,"('TX', 'Comal')",New Braunfels,78130,3092.602299999999,MALE,49.0,High School,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+475,EMBUSA-2252349,TX,"('TX', 'Denton')",Denton,76208,24525.0536969086,MALE,43.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+476,EMBUSA-2252762,OR,"('OR', 'Multnomah')",Portland,97266,9613.04301682119,FEMALE,56.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+477,EMBUSA-2253889,NY,"('NY', 'Rockland')",Monsey,10952,7983.137700000001,MALE,29.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+478,EMBUSA-2254186,CA,"('CA', 'San Francisco')",San Francisco,94131,7127.64084421958,FEMALE,29.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+479,EMBUSA-2254595,FL,"('FL', 'Pasco')",Spring Hill,34610,7389.641124037809,FEMALE,38.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,5
+480,EMBUSA-2255935,IN,"('IN', 'Marion')",Indianapolis,46237,269.00448204678366,MALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+481,EMBUSA-2255999,CA,"('CA', 'San Diego')",San Diego,92131,10432.208071140234,FEMALE,29.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+482,EMBUSA-2256560,IL,"('IL', 'DuPage')",Downers Grove,60516,8992.696534335388,FEMALE,27.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+483,EMBUSA-2257028,FL,"('FL', 'Pasco')",New Port Richey,34655,37267.87741712707,MALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,4
+484,EMBUSA-2257774,IN,"('IN', 'Marion')",Indianapolis,46254,12686.364426399614,FEMALE,44.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+485,EMBUSA-2258003,RI,"('RI', 'Providence')",North Providence,02911,2574.357637003058,FEMALE,45.0,University/College,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+486,EMBUSA-2259223,OH,"('OH', 'Cuyahoga')",Cleveland,44128,6153.94466902751,FEMALE,31.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+487,EMBUSA-2259370,AZ,"('AZ', 'Pinal')",Saugus,01906,21066.707320125755,MALE,40.0,High School,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,5
+488,EMBUSA-2259573,TX,"('TX', 'Lubbock')",Shelton,98584,12027.464168227762,MALE,28.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+489,EMBUSA-2260375,TX,"('TX', 'Harris')",Houston,77074,11297.983000000004,FEMALE,44.0,High School,Blanco,"No, sin origen hispánico",Full-time work,"$25,000 - $49,999 USD",37500,4
+490,EMBUSA-2260609,OH,"('OH', 'Butler')",Hamilton,45011,5983.415999999998,FEMALE,41.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+491,EMBUSA-2261125,IL,"('IL', 'DuPage')",Glen Ellyn,60137,18279.495407202212,FEMALE,25.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+492,EMBUSA-2261157,GA,"('GA', 'Hall')",Flowery Branch,30542,50899.37482271763,FEMALE,37.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+493,EMBUSA-2262590,OR,"('OR', 'Washington')",Hillsboro,97124,2557.805471456,MALE,51.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+494,EMBUSA-2263022,IL,"('IL', 'Tazewell')",East Peoria,61611,8615.050109355068,FEMALE,18.0,Postgraduate Education,White,"Yes, of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,4
+495,EMBUSA-2263516,CT,"('CT', 'Hartford')",Marlborough,06447,9012.24507679553,MALE,60.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,1
+496,EMBUSA-2263689,FL,"('FL', 'Duval')",Ponte Vedra Beach,32082,16570.916345351045,MALE,33.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+497,EMBUSA-2264104,CA,"('CA', 'San Bernardino')",Upland,91786,2173.630773990878,FEMALE,31.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,5
+498,EMBUSA-2264861,MI,"('MI', 'Wayne')",Detroit,48219,3649.0646551751597,FEMALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+499,EMBUSA-2265812,CA,"('CA', 'Orange')",La Habra,90631,30515.794999999995,FEMALE,44.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+500,EMBUSA-2265977,WI,"('WI', 'Eau Claire')",Onalaska,54650,5258.013685992218,MALE,38.0,None completed,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,7
+501,EMBUSA-2266453,OH,"('OH', 'Lake')",Mentor,44060,6410.018,MALE,25.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+502,EMBUSA-2267825,PA,"('PA', 'Allegheny')",Pittsburgh,15213,9112.677372743981,FEMALE,28.0,Postgraduate Education,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+503,EMBUSA-2268025,OK,"('OK', 'Tulsa')",Broken Arrow,74012,2313.9831999999997,FEMALE,51.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+504,EMBUSA-2268496,CO,"('CO', 'Boulder')",Lafayette,80026,5961.210841051271,FEMALE,43.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+505,EMBUSA-2270604,CT,"('CT', 'Middlesex')",Middletown,06457,2687.4173657613173,MALE,30.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+506,EMBUSA-2270855,AZ,"('AZ', 'Maricopa')",,,17624.45300000001,MALE,34.0,High School,Decline to answer,Decline to answer,Full-time work,"$50,000 - $79,999 USD",65000,3
+507,EMBUSA-2272012,VA,"('VA', 'Portsmouth city')",Portsmouth,23704,18032.30586965035,MALE,50.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+508,EMBUSA-2272221,NV,"('NV', 'Lyon')",Carson City,89706,38397.13724277659,FEMALE,32.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+509,EMBUSA-2273184,IL,"('IL', 'Cook')",Burbank,,5754.563999999999,MALE,58.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+510,EMBUSA-2274663,IA,"('IA', 'Cedar')",Tipton,52772,14746.991000000004,FEMALE,45.0,High School,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+511,EMBUSA-2276301,MN,"('MN', 'Hennepin')",Columbia Heights,55421,5465.40938381579,MALE,44.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,4
+512,EMBUSA-2276429,CA,"('CA', 'Tulare')",Pixley,93256,17790.266,FEMALE,34.0,University/College,Other race,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,5
+513,EMBUSA-2276758,IL,"('IL', 'Cook')",Alsip,60803,3580.8176204833476,FEMALE,24.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+514,EMBUSA-2279762,WI,"('WI', 'Dane')",Sun Prairie,53590,13063.709999999995,FEMALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+515,EMBUSA-2281388,TX,"('TX', 'Bexar')",,,330.84702623170745,MALE,57.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+516,EMBUSA-2284933,KS,"('KS', 'Montgomery')",Coffeyville,67337,3151.761060371267,MALE,35.0,None completed,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+517,EMBUSA-2287041,IN,"('IN', 'Noble')",Goshen,46526,15522.348951940621,MALE,35.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+518,EMBUSA-2288562,CA,"('CA', 'Stanislaus')",Millbrae,94030,10617.419759427828,MALE,32.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+519,EMBUSA-2289134,MI,"('MI', 'Gratiot')",Ithaca,48847,1472.1351,FEMALE,33.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+520,EMBUSA-2289424,OK,"('OK', 'Oklahoma')",Midwest City,73110,1569.4287000000002,MALE,51.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,6
+521,EMBUSA-2289846,KS,"('KS', 'Allen')",Iola,66749,15517.872752654112,FEMALE,29.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+522,EMBUSA-2289943,IL,"('IL', 'Kane')",Aurora,60505,5003.116999999999,MALE,37.0,High School,White,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,6
+523,EMBUSA-2289982,MO,"('MO', 'St. Louis city')",St. Louis,63107,3753.60946459271,FEMALE,49.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+524,EMBUSA-2291857,IN,"('IN', 'Marion')",Indianapolis,46222,4583.736103367876,FEMALE,30.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+525,EMBUSA-2292166,GA,"('GA', 'Clayton')",Jonesboro,30238,27890.25149873652,MALE,53.0,High School,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+526,EMBUSA-2292344,IN,"('IN', 'St. Joseph')",South Bend,46619,3207.5602575500943,FEMALE,31.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+527,EMBUSA-2292714,WI,"('WI', 'Winnebago')",Neenah,54956,10031.198935387178,MALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+528,EMBUSA-2293350,CT,"('CT', 'New London')",Griswold,06351,11420.296,FEMALE,33.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+529,EMBUSA-2294613,NC,"('NC', 'Pender')",Rocky Point,28457,19678.848369801082,FEMALE,51.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+530,EMBUSA-2295088,UT,"('UT', 'Salt Lake')",West Jordan,84084,9221.166958725424,FEMALE,37.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+531,EMBUSA-2295431,TN,"('TN', 'Sevier')",Sevierville,37876,35728.03623104632,MALE,30.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+532,EMBUSA-2297414,NC,"('NC', 'Lincoln')",Denver,28037,19755.264,MALE,41.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+533,EMBUSA-2298619,IN,"('IN', 'Allen')",Fort Wayne,46803,5179.225859154125,FEMALE,27.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,2
+534,EMBUSA-2301882,AZ,"('AZ', 'Yavapai')",Prescott,86301,16307.731000000002,FEMALE,61.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+535,EMBUSA-2303787,WI,"('WI', 'Juneau')",Mauston,53948,1532.9128012721048,FEMALE,30.0,High School,Other race,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,2
+536,EMBUSA-2303862,CT,"('CT', 'Hartford')",Bristol,06010,6455.1904,FEMALE,38.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,5
+537,EMBUSA-2309651,OH,"('OH', 'Franklin')",Fairfield,45014,18707.23728384257,MALE,24.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+538,EMBUSA-2309663,TX,"('TX', 'Nueces')",San Antonio,78254,126545.97279463135,FEMALE,39.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+539,EMBUSA-2311030,CT,"('CT', 'Hartford')",Rocky Hill,06067,5173.901452915825,FEMALE,47.0,High School,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,1
+540,EMBUSA-2311194,NE,"('NE', 'Lancaster')",Lincoln,68508,51613.436658893064,FEMALE,49.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+541,EMBUSA-2311369,MA,"('MA', 'Plymouth')",Brockton,02302,11927.701840276493,MALE,36.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+542,EMBUSA-2311846,NJ,"('NJ', 'Mercer')",Trenton,08691,7381.070568421215,FEMALE,30.0,University/College,White,"Yes, of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
+543,EMBUSA-2313289,MD,"('MD', 'Baltimore')",Nottingham,21236,5259.378771774688,MALE,42.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,5
+544,EMBUSA-2313310,TN,"('TN', 'Loudon')",Etowah,37331,20348.932257003064,FEMALE,26.0,High School,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+545,EMBUSA-2313364,CA,"('CA', 'Solano')",Vacaville,95687,3863.3096291572583,FEMALE,28.0,High School,White,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,7
+546,EMBUSA-2313914,OK,"('OK', 'Cleveland')",Moore,73160,9904.467000000002,FEMALE,37.0,High School,Native American or Alaskan native,"No, not of Hispanic origin",Full-time work,"$0 - $14,999 USD",7500,2
+547,EMBUSA-2313935,OH,"('OH', 'Hamilton')",Cincinnati,45215,3905.617146972488,MALE,30.0,University/College,Black or African American,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+548,EMBUSA-2314053,TN,"('TN', 'Shelby')",Mason,38049,54980.29170672098,FEMALE,46.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,4
+549,EMBUSA-2314071,CA,"('CA', 'Los Angeles')",,,1857.0256000000006,MALE,51.0,University/College,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+550,EMBUSA-2314256,TX,"('TX', 'Harris')",Houston,77004,6235.825984410666,MALE,29.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+551,EMBUSA-2314353,MN,"('MN', 'Olmsted')",Chicago,60623,7030.2650536363635,FEMALE,27.0,University/College,Black or African American,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,6
+552,EMBUSA-2315253,TX,"('TX', 'Williamson')",Taylor,76574,24661.75288114053,MALE,33.0,High School,Other race,"Yes, of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+553,EMBUSA-2315587,IL,"('IL', 'Will')",Bolingbrook,60440,30893.641166089972,MALE,56.0,High School,Asian or Pacific Islander,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,1
+554,EMBUSA-2315959,FL,"('FL', 'Hardee')",Wauchula,33873,890.419305175538,FEMALE,47.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,4
+555,EMBUSA-2316232,UT,"('UT', 'Weber')",Riverdale,84405,17811.449916589434,FEMALE,25.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+556,EMBUSA-2316581,CO,"('CO', 'Larimer')",Fort Collins,80524,3723.7884033512064,FEMALE,47.0,University/College,Native American or Alaskan native,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+557,EMBUSA-2316753,MD,"('MD', 'Baltimore')",Towson,21204,13365.340858468679,MALE,37.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,1
+558,EMBUSA-2317174,AZ,"('AZ', 'Maricopa')",Mesa,85213,14594.816057046977,MALE,62.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+559,EMBUSA-2317338,OK,"('OK', 'Cleveland')",Moore,73160,46279.954983227064,MALE,57.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,3
+560,EMBUSA-2317456,SC,"('SC', 'Greenville')",Greer,29651,18474.943448192953,MALE,28.0,University/College,Black or African American,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+561,EMBUSA-2318253,TX,"('TX', 'Travis')",Burleson,76028,36085.54818838367,MALE,58.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,3
+562,EMBUSA-2318455,MD,"('MD', 'Anne Arundel')",Laurel,20707,48494.24199999999,MALE,62.0,University/College,Decline to answer,Decline to answer,Full-time work,"$80,000 - $99,999 USD",90000,2
+563,EMBUSA-2319380,FL,"('FL', 'Seminole')",Lake Mary,32746,3617.250434520593,MALE,34.0,High School,Black or African American,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,3
+564,EMBUSA-2321523,MO,"('MO', 'Randolph')",Saint Charles,63301,47033.90373337323,MALE,33.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,2
+565,EMBUSA-2321654,NV,"('NV', 'Carson City')",Carson City,89701,31646.45707773226,FEMALE,42.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,7
+566,EMBUSA-2324636,CA,"('CA', 'Los Angeles')",Long Beach,90805,18666.509405982903,MALE,27.0,High School,Mixed racial background,"Yes, of Hispanic origin",Full-time work,"$25,000 - $49,999 USD",37500,3
+567,EMBUSA-2324702,CT,"('CT', 'Fairfield')",New Canaan,06840,5928.722,MALE,55.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+568,EMBUSA-2326944,WI,"('WI', 'Outagamie')",Little Chute,54140,6040.9061999999985,FEMALE,41.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$100,000 - $149,999 USD",125000,3
+569,EMBUSA-2328203,SC,"('SC', 'Spartanburg')",Landrum,29356,35200.375,MALE,30.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+570,EMBUSA-2329989,RI,"('RI', 'Providence')",North Providence,02904,31133.984091627848,MALE,34.0,High School,White,"No, not of Hispanic origin",Full-time work,"$50,000 - $79,999 USD",65000,2
+571,EMBUSA-2331074,OK,"('OK', 'Garfield')",Garden City,67846,37150.01704983333,FEMALE,45.0,High School,White,"No, not of Hispanic origin",Full-time work,"$15,000 - $24,999 USD",20000,4
+572,EMBUSA-706528,IA,"('IA', 'Polk')",Des Moines,50313,2244.3419999999996,MALE,55.0,University/College,White,"No, not of Hispanic origin",Full-time work,"$80,000 - $99,999 USD",90000,2
