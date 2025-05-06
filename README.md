@@ -2,7 +2,7 @@
 
 This repository contains the replication data and code for \
 \
-`Luo &  Walker (n.d.) Incorporating the Notion of Habit from Neuroscience in Dynamic Routine Travel Modeling: an Application to Teleommute Decisions through the Pandemic`
+`Luo & Walker (n.d.) Incorporating the Notion of Habit from Neuroscience in Dynamic Routine Travel Modeling: an Application to Teleommute Decisions through the Pandemic`
 
 The paper is submitted to [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
 
