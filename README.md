@@ -14,7 +14,7 @@ The paper is submitted to [Transportation Research Part B: Methodological](https
 
 - Commute choice trajectories for 573 full-time workers are included:
 
-- For each trajectory (`_trajectory.csv`), 
+- For each trajectory (`_trajectory.csv`)
 
 
 ### Environment
