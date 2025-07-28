@@ -34,4 +34,7 @@ Model estimation results in the paper can be replicated by running `multiprocess
 The code is written in python 3. Packages and library required include:
 - `numpy`
 - `pandas`
-- 
+- `datetime`
+- `os`
+- `glob`
+- `re`
