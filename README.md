@@ -20,6 +20,15 @@ Model estimation results in the paper can be replicated by running `multiprocess
 
 - For each trajectory (`_trajectory.csv`)
 
+- Demographic information for each workers is included in `demo.csv`, which includs householld income, age, gender, education level, distance from home to work, and their occupation status.
+  - `panelist_id`
+  - `hh_income`
+  - `age`
+  - `gender`
+  - `edu_level`
+  - `dfwh`
+  - `occupation_status`
+
 
 ### Environment
 The code is written in python 3. Packages and library required include:
