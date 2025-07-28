@@ -7,7 +7,7 @@ This repository contains the replication data and code for \
 The paper is submitted to [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
 
 ### Code
-All main results in the paper can be replicated by running the `scripts/multiprocessing.ipynb` notebook
+Model estimation results in the paper can be replicated by running `multiprocessing.py` and `Multiprocessing_bootstrap.py` notebook.
 
 ### Data
 - The data used in this work is from GPS data collected by Embee Mobile. The dataset we provide (`demo.csv`) is the post-processed data sufficient to replicate the estimation results in the paper.
