@@ -8,10 +8,10 @@ The paper is submitted to [Transportation Research Part B: Methodological](https
 
 ### Code
 Model estimation results in the paper can be replicated by running `multiprocessing.py` and `Multiprocessing_bootstrap.py` notebook.
-- `Trainer.py` provides the training file
+- `Trainer.py` provides the training file that implement maximum likelihood estimation.
 - `agents.py` provides the file with the decision-making mechanism of agents.
-- `optim.py` provides the optimization function
-- `utils.py` provides
+- `optim.py` provides the optimization function.
+- `utils.py` provides.
 
 ### Data
 - The data used in this work is from GPS data collected by Embee Mobile. The dataset we provide (`demo.csv`) is the post-processed data sufficient to replicate the estimation results in the paper.
