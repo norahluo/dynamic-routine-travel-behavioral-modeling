@@ -9,8 +9,8 @@ The paper is submitted to [Transportation Research Part B: Methodological](https
 ### Code
 Model estimation results in the paper can be replicated by running `multiprocessing.py` and `Multiprocessing_bootstrap.py` notebook.
 - `Trainer.py` provides the training file
-- `agents.py` provides the
-- `optim.py` provides
+- `agents.py` provides the file with the decision-making mechanism of agents.
+- `optim.py` provides the optimization function
 - `utils.py` provides
 
 ### Data
