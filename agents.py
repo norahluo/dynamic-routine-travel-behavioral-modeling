@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import numpy as np
 np.seterr(all='raise')
 
@@ -49,7 +43,7 @@ class Agent(object):
         
     def update(self, choice, wday):
         """
-        Update habit strength for a given choice and weekday # 1 / (1 + np.exp(self.params['HDP']))
+        Update habit strength for a given choice and weekday 
         """
         self.HS_hdpplus[wday] = self.HS_hdpplus[wday] - self.HS_hdpplus[wday] * (self.params['HDP'] + self.epsilon) + (1 - self.HS_hdpplus[wday]) * self.params['HGP'] * np.array([1 if i == choice else 0 for i in range(2)])
         self.HS_hdpminus[wday] = self.HS_hdpminus[wday] - self.HS_hdpminus[wday] * (self.params['HDP'] - self.epsilon) + (1 - self.HS_hdpminus[wday]) * self.params['HGP'] * np.array([1 if i == choice else 0 for i in range(2)])
@@ -59,7 +53,9 @@ class Agent(object):
         self.HS[wday] = self.HS[wday] - self.HS[wday] * self.params['HDP'] + (1 - self.HS[wday]) * self.params['HGP'] * np.array([1 if i == choice else 0 for i in range(2)])
   
     def forward(self):
-        
+        """
+        Calculate the probability of choosing the observed alternative 
+        """
         T = len(self.traj)
         HSs, hs, ws, Ps = np.zeros((T, 2)), np.zeros(T), np.zeros(T), np.zeros((T, 2)) 
 
