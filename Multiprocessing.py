@@ -42,15 +42,13 @@ def findOptim(agents, params, i):
                                                 param_dict['w0'][random.randint(0, 2)]
                                                 ]))
     
-    # Try to make a set of params with relatively low loss converge    
-    # 0.479805 	0.175155 	6.984366 	4.151187 	1.287353 	0.488229 	-0.003907 	-0.041947 	-0.380055 	-0.040567 	0.154311 	-0.194268 	-1.106274
+    # Try to make a set of params with relatively low loss converge   
     init_params = dict(zip(['HDP', 'HGP', 'hs', 'B', 'wh', 'w0'], [0.081, 0.175, 6.984, np.array([0.488, -0.004*10, -0.042, np.log(-(-0.380)), np.log(-(-0.041)), 0.154, -0.194, -1.106]), 4.151, 1.287])) 
-    # init_params = dict(zip(['HDP', 'HGP', 'hs', 'B', 'wh', 'w0'], [0.128, 0.3, 3.531, np.array([0.904, -0.009*10, -0.046, np.log(-(-0.455)), np.log(-(-0.017)), 0.071, -0.581, -1.394]), 20.378, 1.014])) 
     
     print('Initial parameters for trainer {} are {}'.format(i, init_params))
 
     ############################################################################################
-    #####      Train the model the find the optimum that yields the highest likelihood     #####
+    #####      Train the model to find the optimum that yields the highest likelihood     #####
     ############################################################################################
     trainer = Trainer(agents, i)
     trainer.train(optim = adam, init_params = init_params, 
