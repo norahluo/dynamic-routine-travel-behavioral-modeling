@@ -4,6 +4,33 @@ np.seterr(all='raise')
 class Agent(object):
 
     def __init__(self, init_habit_strength, info, param_constraint): 
+        """
+        Initialize agents with initial habit strength, individual-level features, and parameter constraints.
+
+        Parameters
+        ----------
+        init_habit_strength : ndarray of shape (7, 2)
+            Each row contains the initial habit strength of WFH/Commute [HS_wfh, HS_c] for a specific weekday.
+            The first to the last row corresponds to Monday to Sunday.
+
+        info : pandas.DataFrame
+            A DataFrame where each row contains information including the individual's commute choice on a specific day, alternative
+            - 'weekday': weekday indicator (0=Monday, ..., 6=Sunday)
+            - 'dfrw': distance from home to workplace (in meters)
+            - 'income': individual income
+            - 'shelter-in-place': binary indicator for SIP period
+            - 'pre-vax': binary indicator for pre-vaccination period
+            - 'during': binary indicator for during-vaccination period
+            - 'post-vax': binary indicator for post-vaccination period
+            - 'is_weekend': binary indicator for weekend
+            - 'is_holiday_extra': binary indicator for holidays
+            - 'commute_filled_diff_dist': binary indicator of commute choice. 0 indicates the individual did not go to the workplace; 1 indicates he/she visited the workplace.
+
+        param_constraint : list of int or str
+            A list of indices (for utility parameters) and/or parameter names (for weight function parameters) to be constrained.
+            For example: [3, 4, 'w0'] means utility parameters b3 and b4, and weight parameter 'w0' are constrained.
+            A negative exponential transformation will be applied to the constrained utility parameters to enforce negative effects.
+        """
         
         self.init_habit_strength = init_habit_strength.copy()
         
