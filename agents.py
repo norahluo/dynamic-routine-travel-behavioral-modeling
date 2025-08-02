@@ -10,7 +10,7 @@ class Agent(object):
         Parameters
         ----------
         init_habit_strength : ndarray of shape (7, 2)
-            Each row contains the initial habit strength of WFH/Commute [HS_wfh, HS_c] for a specific weekday.
+            Each row contains the initial habit strength of notCommute/Commute [HS_nc, HS_c] for a specific weekday.
             The first to the last row corresponds to Monday to Sunday.
 
         info : pandas.DataFrame
@@ -49,7 +49,27 @@ class Agent(object):
         
     def Arbiter(self, HS, X):
         """
-        Compute alternative probability based on habit strength and alternative attributes.
+        Compute alternative choice probabilities based on alternative utility and habit strength.
+        
+        Parameters
+        ----------
+        HS: ndarray of shape (2,)
+            current habit strength for not commute/ commute [HS_nc, HS_c]
+
+        X: ndarray of shape (n_features,)
+            Attributes vector containing both individual characteristics and alternative attributes (e.g., intercept, distance from work to home, is weekend,etc.).
+
+        Returns
+        -------
+        h : float
+            Overall habituation.
+
+        w : float
+            System-balancing weight [0, 1]. 
+            0 means the deciison-making is fully driven by the deliberative system; 1 means the decision is fully driven by habit system.
+            
+        P : ndarray of shape (2,)
+            Probability of choosing each alternative [P_nc, P_c].
         """
         # Utility calculation
         B_adjusted = [-np.exp(self.params['B'][i]) if i in self.constraint else self.params['B'][i] * 0.1 if i == 1 else self.params['B'][i] for i in range(len(self.params['B']))]
